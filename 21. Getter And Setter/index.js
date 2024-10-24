@@ -9,7 +9,7 @@
         }
     }
     let person = new Person();
-    console.log(person.getName);
+    // console.log(person.getName);
     person.setName = "Mason Van";
     console.log();
     console.log(person.getName);
